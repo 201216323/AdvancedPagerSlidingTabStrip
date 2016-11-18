@@ -10,28 +10,33 @@
         android:id="@+id/noramltab"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
         android:text="start noraml tab activity"/>
     <Button
         android:id="@+id/icontab"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
         android:text="start icon tab activity"/>
 
     <Button
         android:id="@+id/customtab"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
         android:text="start custom tab activity"/>
 
     <Button
         android:id="@+id/viewtab"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
         android:text="start view tab activity"/>
 
     <Button
         android:id="@+id/weibotab"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
         android:text="start weibo tab activity"/>
 </LinearLayout>

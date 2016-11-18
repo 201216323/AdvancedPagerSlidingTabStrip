@@ -23,5 +23,3 @@ android {
         buildToolsVersion "23.0.1"
     }
 }
-
-apply from: 'https://raw.githubusercontent.com/HomHomLin/Gradle-Publish/master/bintray.gradle'
